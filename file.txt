@@ -1,9 +1,10 @@
 Hello world!
 change
 again do ing
-chaagnge fir bug
+Chaagnge fir bug
 
 change1
 change2 fir bug
 for change 3 fixbug2
 change for bug bu team mate
+change added caps in each line and for cr1 by team mate to test rebase
